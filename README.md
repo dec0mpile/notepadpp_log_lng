@@ -1,4 +1,4 @@
-# User-Defined language for highlighting log files in Notepad++
+## User-Defined language for highlighting log files in Notepad++
 ---
 ### Install by downloading the file and importing into Notepad++
 ### Npp: Language -> Define your language... -> Import...
