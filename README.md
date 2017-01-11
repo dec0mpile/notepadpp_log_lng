@@ -1,6 +1,6 @@
 ## User-Defined language for highlighting log files in Notepad++
 ---
-### Install by downloading the file and importing into Notepad++
+### Install by downloading the 'Log-DarkTheme.xml' or 'Log-LightTheme.xml' file and importing into Notepad++
 ### Npp: Language -> Define your language... -> Import...
 ---
 Inspired and modified from:
