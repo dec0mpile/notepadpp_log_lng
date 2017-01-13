@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Log-DarkTheme" ext="log" udlVersion="2.1">
+    <UserLang name="LogFile-DarkTheme" ext="log" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="2" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
@@ -26,13 +26,13 @@
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">ERROR failed false FATAL deleted destroyed forbidden interrupt Attack vulnerable failure violation</Keywords>
             <Keywords name="Keywords2">WARN WARNING closed terminated &quot;does not exist&quot; Illegal</Keywords>
-            <Keywords name="Keywords3">DEBUG NOTICE TRACE INBOUND SRC detected  Source</Keywords>
+            <Keywords name="Keywords3">DEBUG NOTICE TRACE INBOUND SRC detected Source</Keywords>
             <Keywords name="Keywords4">INFO OUTBOUND DEST DST opened Hint</Keywords>
             <Keywords name="Keywords5">ACCEPTED Starting Successfully Success true authenticated succeeded completed done login</Keywords>
             <Keywords name="Keywords6">COMMAND attempt activity Attempted</Keywords>
             <Keywords name="Keywords7">SYSTEM PID CLIENT</Keywords>
             <Keywords name="Keywords8">CONNECT GET</Keywords>
-            <Keywords name="Delimiters">00( 01 02) 03{ 04 05} 06&lt; 07 08&gt; 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+            <Keywords name="Delimiters">00( 01 02) 03{ 04 05} 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
             <WordsStyle name="DEFAULT" fgColor="DCDCCC" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" nesting="0" />
