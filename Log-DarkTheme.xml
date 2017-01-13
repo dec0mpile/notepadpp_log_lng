@@ -24,8 +24,8 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">ERROR failed false FATAL deleted destroyed forbidden interrupt Attack vulnerable failure violation</Keywords>
-            <Keywords name="Keywords2">WARN WARNING closed terminated &quot;does not exist&quot; Illegal</Keywords>
+            <Keywords name="Keywords1">ERROR failed false FATAL deleted destroyed forbidden interrupt Attack vulnerable failure violation dead killing denied &quot;Permission denied&quot; &quot;not allowed&quot;</Keywords>
+            <Keywords name="Keywords2">WARN WARNING closed terminated &quot;does not exist&quot; Illegal &quot;timing out&quot; &quot;time out&quot;</Keywords>
             <Keywords name="Keywords3">DEBUG NOTICE TRACE INBOUND SRC detected Source</Keywords>
             <Keywords name="Keywords4">INFO OUTBOUND DEST DST opened Hint</Keywords>
             <Keywords name="Keywords5">ACCEPTED Starting Successfully Success true authenticated succeeded completed done login</Keywords>
